@@ -1,0 +1,319 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/h1int.png" tvg-id="PublicTelevisionArmenia.bg",H1 International
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="H1.am",H1
+http://timeshift.arpinet.am/1/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="H2.am",H2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/armtv.png",Armenia TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s4/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/usarm.png",USArmenia TV
+http://livestream.usatv.com/hls/m3u8/USARMENIA_NET1080.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Shant.am",Shant TV
+#EXTVLCOPT:http-user-agent=smartlabs
+https://srv86.gisher.org/hlssthd/sthd/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Shant.am",Shant TV (2)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://212.42.193.122:490/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/artn.png",ARTN Shant
+http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Kentron.am",Kentron
+http://212.42.193.122:490/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="YerkirMedia.am",Yerkir Media
+https://livestream.yerkirmedia.am/www/hdhls/a55r4g47.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/5aliq.png",5-rd Aliq
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/21tv.png",21TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s10/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ArmNews.am",ArmNews
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s11/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/norhayastan.png",Nor Hayastan
+http://212.42.193.122:490/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/azatutyun.png",Azatutyun
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/freenews.png",Free News AM
+http://212.42.193.122:490/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/kotayq.png",Kotayq TV
+http://212.42.193.122:490/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/panarmenian.png",Pan Armenian TV
+https://stream.mediaworldvision.com:8811/PanarmLiveT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="Shoxakat.am",Shoghakat
+http://212.42.193.122:490/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ATV.am",ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s8/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",Filmzone ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",HayTV ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",Xaxaliq ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s74/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",Kinoman ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",TavaTV ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="UPremium.am" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM1.png",Armenia Premium 1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM2.png",Armenia Haykino 2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM3.png",Armenia JanTV 3
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM4.png",Armenia Comedy 4
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM5.png",Armenia Tuntunik 5
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/apremium/APREMIUM6.png",Armenia Cinema 6
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s66/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/horizon.png",Horizon TV
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/amga.png",Amga
+https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/nur.png",Nur TV
+http://212.42.193.122:490/play/drx4sivvbfg6snh7hmjkco62830bddqwutqthruyd0vvei81uhbdvn5uhvb0z7mz6iie0ii39j4tr2ks92vbfqb2rcswp4mlda5jjesi3mhler3tz4u5kbd1dwos6gkpgfypzgdt8kkc2tc7nc2xem4x8ygkk60rbo6hbag9kqss9uq2cy5gqz444qfem5b3z8agoggecedre9jgde3ukxouttel4geaevg8hmc0qvhuurhybaildclwwq76wr6g/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/noor.png",Noor TV USA
+https://streamer1.connectto.com/Noor_275/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/aabc.png"tvg-id="ext",AABC TV
+https://streamer1.connectto.com/AABC_WEB_1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/EDU.png",EDU TV
+http://212.42.193.122:8888/play/a009/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/Livenewsam.png",Livenews.am
+https://live-itadvice.cdnvideo.ru/itadvice/itadvice_smil/7b0493b53e9940494b046f8fdde2c0bd--itadvice--itadvice_720--chunklist.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/armmusic.png",Arm Music
+http://livestream.usatv.com/hls/m3u8/ArmMusicHD.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/songtv.png",Song TV Armenia
+http://212.42.193.122:8888/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/luystv.png",Luys TV (Istanbul)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8?md5=RwfE1P2IZXZV3OvQvYxN9Q&expires=1617733149
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/highvision.png",High Vision TV (Persian - Armenian)
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/radiovan.png",Radio Van 103.0 FM Yerevan
+https://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radio/h1radio.png",Radio 1 (Public Radio of Armenia)
+http://37.252.79.131:8000
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radio/lavradio.png",Lav Radio
+https://eu.stream4cast.com:9800
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radio/lavradiomix.png",Lav Radio Mix
+http://163.172.7.220:8006
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/armnetradio.png",Armenian Net Radio
+http://s1.armnetradio.com:8550
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radiojan.png",Radio Jan Armenia
+http://s7.voscast.com:10258
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radioarev.png",Radio Arev
+http://64.150.176.42:8013
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/radioayk.png",AYK Radio
+http://64.150.176.42:8117
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/Fortuna.png",FortunaTV
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/armnews24.png",ArmNews 24
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-id="ext" tvg-logo="http://kareniptv.eu/logo/deltatv.png",DeltaTV (ARM)
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/armount.png",Armount TV
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/tsayg.png",Tsayg TV
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",BazmocTV ATV
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Armenia" tvg-logo="http://kareniptv.eu/logo/atv.png",Fitness ATV
+http://kareniptv.eu/anhasaneli/anhasaneli.m3u8
+#EXTINF:-1 group-title="Russia",Perviy Kanal (ARM)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:-1 group-title="Russia",Perviy Evrasia Kanal
+https://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="Russia",Россия 1
+https://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Russia",TNT
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1 group-title="Russia",TNT4
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s100/04.m3u8
+#EXTINF:-1 group-title="Russia",Ren TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 group-title="Russia",STS
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 group-title="Russia",STS int
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 group-title="Russia",CTV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s20/04.m3u8
+#EXTINF:-1 group-title="Russia",MIR Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Russia",MIR int
+http://sc.id-tv.kz/Mir_38_39.m3u8
+#EXTINF:-1 group-title="Russia",MIR
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1 group-title="Russia",DOMASHNI
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1 group-title="Russia",Zdorove
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1 group-title="Russia",TVC
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s54/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="rtrpl",Россия РТР
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s15/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="kultura",Россия K
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s16/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="amedia1",A1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="amedia2",A2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s33/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="bridge",Bridge TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="rusong",Bridge TV Русский хит
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="FineLiving.ru",Fine Living
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s51/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="food-network-rus",Food Network
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="mcm-top",MCM TOP
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="ocean",Ocean TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s84/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="rtgtv",RTG TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="tv1000",TV 1000
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s90/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="tv1000-action",TV 1000 Action
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="tv1000_rus",TV 1000 Русское кино
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="tiji",Tiji
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="explorer-rus",Viasat Explore
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s72/04.m3u8
+#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:-1 group-title="Russia" tvg-id="history",Viasat History
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s70/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="viasat-nature",Viasat Nature
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s67/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="24dok",Доктор
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s76/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="zvezda",Звезда
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s85/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="disney",Канал Disney
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s60/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="mat-i-ditya",Мама
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s77/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="mir",Мир
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s39/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="muz-tv",Муз ТВ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s28/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="mult",Мульт
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s58/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="nstv",НСТ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="nauka",Наука
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s98/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="vesti",Россия 24
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s21/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="rus-bestseller",Русский Бестселлер
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="russkij-extreme",Русский Экстрим
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="ryzhij",Рыжий
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s57/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="sarafan",Сарафан
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="tnt4",ТНТ4
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s100/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="telecafe",Телекафе
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s56/04.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="24texno",Техно 24
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s68/04.m3u8
+#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:-1 group-title="Russia" tvg-id="tv1000-comedy-hd",VIP COMEDY
+http://ott-cdn.ucom.am/s97/04.m3u8
+#EXTVLCOPT:http-user-agent=smartlabs
+#EXTINF:-1 group-title="Russia" tvg-id="puteshestviya-hd",ПРИКЛЮЧЕНИЯ HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s99/04.m3u8
+#EXTINF:-1 group-title="Russia",Soyuz
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/chunklist.m3u8
+#EXTINF:-1 group-title="Russia" tvg-id="russia-today",RT
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s96/04.m3u8
+#EXTINF:-1 group-title="Russia",Футбол 1 HD UA
+https://95-213-224-186.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="Russia",Футбол 2 HD UA
+https://95-213-224-186.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Russia",Футбол 3 HD UA
+https://95-213-224-186.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="Europe" tvg-id="LCI.fr",LCI (FR)
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 group-title="Europe" tvg-id="Arte.fr",Arte (FR)
+http://www.filmon.com/vr-streams/1729.high/playlist.m3u8
+#EXTINF:-1 group-title="Europe" tvg-id="Tiji.fr",Tiji (FR)
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="http://kareniptv.eu/logo/fr/rtfr.png",RT France (FR)
+https://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:-1 group-title="Europe" tvg-logo="http://kareniptv.eu/logo/fr/euronews.png" tvg-id="EuronewsFR.nws",Euronews (FR)
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Europe",France 24 (FR)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="Europe",RTL-TVi (BE FR)
+http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8
+#EXTINF:-1 group-title="Europe",BEL RTL (BE FR)
+http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
+#EXTINF:-1 group-title="Europe",Bvn (NL)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://5.146.116.76:8001/1:0:1:42E0:AB:270F:FFFF0000:0:0:0:
